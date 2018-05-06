@@ -1,7 +1,7 @@
 # <center>Aiptasia DNA Methylation</center>
 
 This is a collection of my scripts for DNA methylation analysis.
-Generally, the scripts are self-explanaroty, look into the files to get usage, or just run them without parameter.
+Generally, the scripts are self-explanaroty, look into the files for usage, or just run them without parameter.
 
 ## License
 All scripts here are under GPL-3.0 license, basically, they are `free`, and use them `at your own risk`.
